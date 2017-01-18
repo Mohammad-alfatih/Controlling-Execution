@@ -1,0 +1,40 @@
+Pushing to the cloud
+
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# Committer: Alfatih Mukhtar <alfatihmukhtar@zipcoders-MacBook-Pro-9.local>
+#
+# On branch master
+# Your branch is ahead of 'origin/master' by 1 commit.
+#   (use "git push" to publish your local commits)
+#
+# Changes to be committed:
+#	new file:   .DS_Store
+#	new file:   SumOfTheNumbers/.DS_Store
+#	new file:   SumOfTheNumbers/.idea/compiler.xml
+#	new file:   SumOfTheNumbers/.idea/inspectionProfiles/Project_Default.xml
+#	new file:   SumOfTheNumbers/.idea/libraries/Maven__junit_junit_4_12.xml
+#	new file:   SumOfTheNumbers/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml
+#	new file:   SumOfTheNumbers/.idea/misc.xml
+#	new file:   SumOfTheNumbers/.idea/modules.xml
+#	new file:   SumOfTheNumbers/.idea/uiDesigner.xml
+#	new file:   SumOfTheNumbers/.idea/workspace.xml
+#	new file:   SumOfTheNumbers/SumOfTheNumbers.iml
+#	new file:   SumOfTheNumbers/SumOfTheNumbers.png
+#	new file:   SumOfTheNumbers/SumOfTheNumbersUML.png
+#	new file:   SumOfTheNumbers/pom.xml
+#	new file:   SumOfTheNumbers/src/main/java/SumOfTheNumbers/App.java
+#	new file:   SumOfTheNumbers/src/main/java/SumOfTheNumbers/Calculator.java
+#	new file:   SumOfTheNumbers/src/main/java/SumOfTheNumbers/Display.java
+#	new file:   SumOfTheNumbers/src/main/java/SumOfTheNumbers/Sum.java
+#	new file:   SumOfTheNumbers/src/main/java/SumOfTheNumbers/UserInput.java
+#	new file:   SumOfTheNumbers/src/test/java/SumOfTheNumbers/UserInputTest.java
+#	new file:   SumOfTheNumbers/src/test/java/SumOfTheNumbersTest/SumOfTheNumbersTest.java
+#	new file:   SumOfTheNumbers/target/classes/SumOfTheNumbers/App.class
+#	new file:   SumOfTheNumbers/target/classes/SumOfTheNumbers/Calculator.class
+#	new file:   SumOfTheNumbers/target/classes/SumOfTheNumbers/Display.class
+#	new file:   SumOfTheNumbers/target/classes/SumOfTheNumbers/Sum.class
+#	new file:   SumOfTheNumbers/target/classes/SumOfTheNumbers/UserInput.class
+#	new file:   SumOfTheNumbers/target/test-classes/SumOfTheNumbers/UserInputTest.class
+#
