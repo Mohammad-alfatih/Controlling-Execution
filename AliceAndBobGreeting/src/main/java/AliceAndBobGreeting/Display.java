@@ -5,6 +5,6 @@ package AliceAndBobGreeting;
  */
 public class Display {
     public void printToScreen(String output) {
-        System.out.println(output);
+        System.out.print(output);
     }
 }
