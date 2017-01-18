@@ -14,7 +14,7 @@ public class UserInput {
         display = new Display();
     }
 
-    public int askUserForName() {
+    public String askUserForName() {
         display.printToScreen("What is your name? ");
         String userInput = scanner.next();
 
