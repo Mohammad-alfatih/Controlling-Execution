@@ -1,9 +1,9 @@
-package AliceAndBobGreeting;
+package TooLargeTooSmall;
 
 import java.util.Scanner;
 
 /**
- * Created by alfatihmukhtar on 1/17/17.
+ * Created by alfatihmukhtar on 1/18/17.
  */
 public class UserInput {
     private Scanner scanner;
@@ -14,10 +14,8 @@ public class UserInput {
         display = new Display();
     }
 
-    public String askUserForName() {
-        display.printToScreen("What is your name? ");
-        String userInput = scanner.next();
-
-        return userInput;
+    public void askUserForInput() {
+        display.printToScreen("Now, please guess the number that we have chosen: ");
     }
+
 }
